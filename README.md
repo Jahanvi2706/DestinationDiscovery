@@ -1,1 +1,2 @@
-# DestinationDiscovery
+Destination Discovery is a web app for finding and planning your next travel adventure. The product will concentrate on intuitive design and engaging features, making discovery exciting and effortless.
+It is a travel project that takes its inspiration from the will to make traveling planning easy and enjoyable. Aims at using technology combined with creativity in inspiring people to travel around the world.
