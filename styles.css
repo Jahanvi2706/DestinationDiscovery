@@ -1,0 +1,107 @@
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/011/561/871/original/aesthetic-abstract-modern-brown-background-illustration-perfect-for-wallpaper-backdrop-postcard-background-banner-vector.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #573822;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #333;
+}
+
+#search-section {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 600px;
+}
+
+#search-form {
+    display: flex;
+    flex-direction: column;
+}
+
+#search-form label {
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+#search-form select, button {
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #d6b298;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #bf865d;
+}
+
+#results-section {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#destinations-list {
+    margin-top: 20px;
+}
+
+.destination {
+    padding: 10px;
+    background-color: #d6b298;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #573822;
+    color: white;
+    margin-top: 40px;
+}
+
+img{
+    width: 500px;
+    height: 200px;
+}
